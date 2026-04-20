@@ -1,3 +1,39 @@
 {
-  "keywords": ["python", "backend"]
+ 
+  "keywords": [
+    "qa",
+    "tester",
+    "testing",
+    "quality assurance",
+    "software testing",
+    "manual testing",
+    "automation",
+    "python",
+    "docker",
+    "ci",
+    "git",
+    "junior",
+    "intern",
+    "entry level",
+    "remote"
+  ],
+  "exclude": [
+    "senior",
+    "lead",
+    "manager",
+    "director",
+    "architect",
+    "head",
+    "principal",
+    "devops",
+    "cloud",
+    "aws",
+    "azure",
+    "kubernetes",
+    "machine learning",
+    "data scientist",
+    "sales",
+    "call center",
+    "customer service"
+  ]
 }
